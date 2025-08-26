@@ -26,7 +26,7 @@ A machine learning project applying ensemble techniques like **Stacking**, **Ada
 - `scikit-learn`
 - `xgboost`
 - `seaborn`
-- `pandas`, `numpy`
+- `pandas`, `numpy` 
 
 
 
